@@ -14,4 +14,4 @@
 
 ## Connect with me
 
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][https://www.linkedin.com/in/aleksandar-jovanovic-1a9027256/]
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aleksandar-jovanovic-1a9027256/)
