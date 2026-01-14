@@ -7,9 +7,10 @@
 ⚡ Fun fact: driven by small daily victories, continuously learning and improving  
 
 
+## 🛠️Technologies & Tools I use  
+
 ![🛠️Technologies & Tools I use](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,typescript,next,redux,figma,ps,git,github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarjo&show_icons=true&locale=en&layout=compact)
 
 ## Connect with me
 
