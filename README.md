@@ -1,11 +1,15 @@
-🔭 I’m currently working as **Frontend Developer** _[symple.](https://symple.ch/)_
-🌱 I’m currently learning more about **Next.js** patterns and backend architecture
-💻 I work using: **React**, **Next.js**, **Shadcnui**, **Tailwind**, **Framer Motion**, **Github**
-⚡ Fun fact: driven by small daily victories, continuously learning and improving
+🔭 I’m currently working as **Frontend Developer** _[symple.](https://symple.ch/)_  
+
+🌱 I’m currently learning more about **Next.js** patterns and backend architecture  
+
+💻 I work using: **React**, **Next.js**, **Shadcnui**, **Tailwind**, **Framer Motion**, **Github**  
+
+⚡ Fun fact: driven by small daily victories, continuously learning and improving  
+
 
 ![🛠️Technologies & Tools I use](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,typescript,next,redux,figma,ps,git,github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarjo&show_icons=true&locale=en&layout=compact)
 
 ## Connect with me
 
