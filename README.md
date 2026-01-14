@@ -14,4 +14,4 @@
 
 ## Connect with me
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)]([https://jsmastery.pro](https://www.linkedin.com/in/aleksandar-jovanovic-1a9027256/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)]([[https://jsmastery.pro](https://www.linkedin.com/in/aleksandar-jovanovic-1a9027256/)]
