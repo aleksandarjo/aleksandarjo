@@ -12,6 +12,6 @@
 ![🛠️Technologies & Tools I use](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,typescript,next,redux,figma,ps,git,github)
 
 
-## Connect with me
+## 🤝Connect with me
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aleksandar-jovanovic-1a9027256/)
