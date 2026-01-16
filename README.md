@@ -1,4 +1,4 @@
-🔭 I’m currently working as **Frontend Developer** _[symple.](https://symple.ch/)_  
+🔭 I’m currently working as **Frontend Developer** at _[symple.](https://symple.ch/)_  
 
 🌱 I’m currently learning more about **Next.js** patterns and backend architecture  
 
