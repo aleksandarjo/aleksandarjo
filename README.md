@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning more about **Next.js** patterns and backend architecture  
 
-💻 I work using: **React**, **Next.js**, **Shadcnui**, **Tailwind**, **Framer Motion**, **Github**  
+💻 I work using: **React**, **Next.js**, **Shadcnui**, **Tailwind**, **Framer Motion**
 
 ⚡ Fun fact: driven by small daily victories, continuously learning and improving  
 
